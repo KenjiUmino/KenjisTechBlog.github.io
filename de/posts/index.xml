@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Beiträge on Kenji&#39;s Tech Blog</title>
-    <link>https://github.com/KenjiUmino/kenjistechblog.github.io/de/posts/</link>
+    <link>https://kenjistechblog.github.io/de/posts/</link>
     <description>Recent content in Beiträge on Kenji&#39;s Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://github.com/KenjiUmino/kenjistechblog.github.io/de/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://kenjistechblog.github.io/de/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
       
