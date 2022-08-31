@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Kenji&#39;s Tech Blog</title>
-    <link>https://kenjiumino.github.io/kenjistechblog.github.io/de/categories/</link>
+    <link>https://kenjistechblog.github.io/de/categories/</link>
     <description>Recent content in Categories on Kenji&#39;s Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>©2022, All Rights Reserved</copyright>
     
-        <atom:link href="https://kenjiumino.github.io/kenjistechblog.github.io/de/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://kenjistechblog.github.io/de/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
