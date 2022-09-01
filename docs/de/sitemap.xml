@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kenjiumino.github.io/kenjistechblog/de/posts/</loc>
+    <loc>http://kenjis-tech-blog.home-hosted.de/de/posts/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kenjiumino.github.io/kenjistechblog/en/posts/"
+                href="http://kenjis-tech-blog.home-hosted.de/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kenjiumino.github.io/kenjistechblog/de/posts/"
+                href="http://kenjis-tech-blog.home-hosted.de/de/posts/"
                 />
   </url><url>
-    <loc>https://kenjiumino.github.io/kenjistechblog/de/</loc>
+    <loc>http://kenjis-tech-blog.home-hosted.de/de/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kenjiumino.github.io/kenjistechblog/en/"
+                href="http://kenjis-tech-blog.home-hosted.de/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kenjiumino.github.io/kenjistechblog/de/"
+                href="http://kenjis-tech-blog.home-hosted.de/de/"
                 />
   </url><url>
-    <loc>https://kenjiumino.github.io/kenjistechblog/de/about/</loc>
+    <loc>http://kenjis-tech-blog.home-hosted.de/de/about/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kenjiumino.github.io/kenjistechblog/en/about/"
+                href="http://kenjis-tech-blog.home-hosted.de/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kenjiumino.github.io/kenjistechblog/de/about/"
+                href="http://kenjis-tech-blog.home-hosted.de/de/about/"
                 />
   </url><url>
-    <loc>https://kenjiumino.github.io/kenjistechblog/de/categories/</loc>
+    <loc>http://kenjis-tech-blog.home-hosted.de/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kenjiumino.github.io/kenjistechblog/en/categories/"
+                href="http://kenjis-tech-blog.home-hosted.de/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kenjiumino.github.io/kenjistechblog/de/categories/"
+                href="http://kenjis-tech-blog.home-hosted.de/de/categories/"
                 />
   </url><url>
-    <loc>https://kenjiumino.github.io/kenjistechblog/de/series/</loc>
+    <loc>http://kenjis-tech-blog.home-hosted.de/de/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kenjiumino.github.io/kenjistechblog/en/series/"
+                href="http://kenjis-tech-blog.home-hosted.de/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kenjiumino.github.io/kenjistechblog/de/series/"
+                href="http://kenjis-tech-blog.home-hosted.de/de/series/"
                 />
   </url><url>
-    <loc>https://kenjiumino.github.io/kenjistechblog/de/tags/</loc>
+    <loc>http://kenjis-tech-blog.home-hosted.de/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kenjiumino.github.io/kenjistechblog/en/tags/"
+                href="http://kenjis-tech-blog.home-hosted.de/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kenjiumino.github.io/kenjistechblog/de/tags/"
+                href="http://kenjis-tech-blog.home-hosted.de/de/tags/"
                 />
   </url>
 </urlset>
