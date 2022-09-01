@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://kenjis-tech-blog.home-hosted.de/de/posts/</loc>
+    <loc>/de/posts/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://kenjis-tech-blog.home-hosted.de/en/posts/"
+                href="/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://kenjis-tech-blog.home-hosted.de/de/posts/"
+                href="/de/posts/"
                 />
   </url><url>
-    <loc>http://kenjis-tech-blog.home-hosted.de/de/</loc>
+    <loc>/de/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://kenjis-tech-blog.home-hosted.de/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://kenjis-tech-blog.home-hosted.de/de/"
+                href="/de/"
                 />
   </url><url>
-    <loc>http://kenjis-tech-blog.home-hosted.de/de/about/</loc>
+    <loc>/de/about/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://kenjis-tech-blog.home-hosted.de/en/about/"
+                href="/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://kenjis-tech-blog.home-hosted.de/de/about/"
+                href="/de/about/"
                 />
   </url><url>
-    <loc>http://kenjis-tech-blog.home-hosted.de/de/categories/</loc>
+    <loc>/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://kenjis-tech-blog.home-hosted.de/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://kenjis-tech-blog.home-hosted.de/de/categories/"
+                href="/de/categories/"
                 />
   </url><url>
-    <loc>http://kenjis-tech-blog.home-hosted.de/de/series/</loc>
+    <loc>/de/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://kenjis-tech-blog.home-hosted.de/en/series/"
+                href="/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://kenjis-tech-blog.home-hosted.de/de/series/"
+                href="/de/series/"
                 />
   </url><url>
-    <loc>http://kenjis-tech-blog.home-hosted.de/de/tags/</loc>
+    <loc>/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://kenjis-tech-blog.home-hosted.de/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://kenjis-tech-blog.home-hosted.de/de/tags/"
+                href="/de/tags/"
                 />
   </url>
 </urlset>
