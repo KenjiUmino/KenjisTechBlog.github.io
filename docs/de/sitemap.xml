@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kenjiumino.github.io/kenjistechblog.github.io/de/posts/</loc>
+    <loc>https://kenjiumino.github.io/kenjistechblog/de/posts/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kenjiumino.github.io/kenjistechblog.github.io/en/posts/"
+                href="https://kenjiumino.github.io/kenjistechblog/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kenjiumino.github.io/kenjistechblog.github.io/de/posts/"
+                href="https://kenjiumino.github.io/kenjistechblog/de/posts/"
                 />
   </url><url>
-    <loc>https://kenjiumino.github.io/kenjistechblog.github.io/de/</loc>
+    <loc>https://kenjiumino.github.io/kenjistechblog/de/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kenjiumino.github.io/kenjistechblog.github.io/en/"
+                href="https://kenjiumino.github.io/kenjistechblog/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kenjiumino.github.io/kenjistechblog.github.io/de/"
+                href="https://kenjiumino.github.io/kenjistechblog/de/"
                 />
   </url><url>
-    <loc>https://kenjiumino.github.io/kenjistechblog.github.io/de/about/</loc>
+    <loc>https://kenjiumino.github.io/kenjistechblog/de/about/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kenjiumino.github.io/kenjistechblog.github.io/en/about/"
+                href="https://kenjiumino.github.io/kenjistechblog/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kenjiumino.github.io/kenjistechblog.github.io/de/about/"
+                href="https://kenjiumino.github.io/kenjistechblog/de/about/"
                 />
   </url><url>
-    <loc>https://kenjiumino.github.io/kenjistechblog.github.io/de/categories/</loc>
+    <loc>https://kenjiumino.github.io/kenjistechblog/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kenjiumino.github.io/kenjistechblog.github.io/en/categories/"
+                href="https://kenjiumino.github.io/kenjistechblog/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kenjiumino.github.io/kenjistechblog.github.io/de/categories/"
+                href="https://kenjiumino.github.io/kenjistechblog/de/categories/"
                 />
   </url><url>
-    <loc>https://kenjiumino.github.io/kenjistechblog.github.io/de/series/</loc>
+    <loc>https://kenjiumino.github.io/kenjistechblog/de/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kenjiumino.github.io/kenjistechblog.github.io/en/series/"
+                href="https://kenjiumino.github.io/kenjistechblog/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kenjiumino.github.io/kenjistechblog.github.io/de/series/"
+                href="https://kenjiumino.github.io/kenjistechblog/de/series/"
                 />
   </url><url>
-    <loc>https://kenjiumino.github.io/kenjistechblog.github.io/de/tags/</loc>
+    <loc>https://kenjiumino.github.io/kenjistechblog/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://kenjiumino.github.io/kenjistechblog.github.io/en/tags/"
+                href="https://kenjiumino.github.io/kenjistechblog/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://kenjiumino.github.io/kenjistechblog.github.io/de/tags/"
+                href="https://kenjiumino.github.io/kenjistechblog/de/tags/"
                 />
   </url>
 </urlset>

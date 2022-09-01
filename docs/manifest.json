@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "Kenji's Tech Blog",
-  "short_name": "Kenji's Tech Blog",
-  "version": "first",
-  "default_locale": "de",
-  "description": "A Blog about tech",
+  "name": "My Extension",
+  "short_name": "My Extension",
+  "version": "versionString",
+  "default_locale": "en",
+  "description": "A plain text description",
   "icons": [
     {
       "src": "favicon.png",
