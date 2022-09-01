@@ -1,80 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>/de/posts/</loc>
-    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/posts/"
-                />
-  </url><url>
-    <loc>/de/</loc>
-    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/"
-                />
-  </url><url>
-    <loc>/de/about/</loc>
-    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/about/"
-                />
-  </url><url>
-    <loc>/de/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/categories/"
-                />
-  </url><url>
-    <loc>/de/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/series/"
-                />
-  </url><url>
-    <loc>/de/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/tags/"
-                />
-  </url>
+  
+  
+    <url>
+      <loc>/de/posts/2022-08-21_hello_world/</loc>
+      
+      
+        <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+      
+      
+      
+        
+          <xhtml:link
+            rel="alternate"
+            hreflang="en"
+            href="/posts/2022-08-21_hello_world/"
+            />
+        
+        
+        <xhtml:link
+          rel="alternate"
+          hreflang="de"
+          href="/de/posts/2022-08-21_hello_world/"
+          />
+      
+      
+    </url>
+    
+  
 </urlset>

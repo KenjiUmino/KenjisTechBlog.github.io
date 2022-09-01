@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenji&#39;s Tech Blog</title>
+    <link>/posts/</link>
+    <description>John Doe&#39;s personal website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2021, John Doe; All rights reserved.</copyright>
+    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Hello World</title>
+        <link>/posts/2022-08-21_hello_world/</link>
+        <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>/posts/2022-08-21_hello_world/</guid>
+        <description>...how to start blogging in less than 10 ~~minutes~~ days</description>
+      </item>
+    
+  </channel>
+</rss>
