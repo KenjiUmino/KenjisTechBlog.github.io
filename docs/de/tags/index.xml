@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kenji&#39;s Tech Blog</title>
-    <link>/de/tags/</link>
+    <link>https://kenjiumino.github.io/kenjistechblog/de/tags/</link>
     <description>Sítio pessoal de João Ninguém</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2021, John Doe; All rights reserved.</copyright><atom:link href="/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2021, John Doe; All rights reserved.</copyright><atom:link href="https://kenjiumino.github.io/kenjistechblog/de/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
