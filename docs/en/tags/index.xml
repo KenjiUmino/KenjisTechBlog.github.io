@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Kenji&#39;s Tech Blog</title>
-    <link>https://kenjiumino.github.io/kenjistechblog/en/tags/</link>
+    <link>https://kenjiumino.github.io/en/tags/</link>
     <description>Recent content in Tags on Kenji&#39;s Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2022, All Rights Reserved</copyright>
     
-        <atom:link href="https://kenjiumino.github.io/kenjistechblog/en/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://kenjiumino.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
