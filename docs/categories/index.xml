@@ -3,9 +3,9 @@
   <channel>
     <title>Kenji&#39;s Tech Blog</title>
     <link>https://kenjiumino.github.io/kenjistechblog/categories/</link>
-    <description>John Doe&#39;s personal website</description>
+    <description>Keji&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2021, John Doe; All rights reserved.</copyright><atom:link href="https://kenjiumino.github.io/kenjistechblog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2022, Kenji Umino; All rights reserved.</copyright><atom:link href="https://kenjiumino.github.io/kenjistechblog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
